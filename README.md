@@ -2,12 +2,12 @@
 
 
 ## Tecnologias
-. Next.js
-. TypeScript
-. Chakra UI
-. JSON Server
-. Swiper
-. SASS
+. Next.js </br>
+. TypeScript </br>
+. Chakra UI </br>
+. JSON Server </br>
+. Swiper </br>
+. SASS </br>
 . React Country Flag
 
 ## Projeto
@@ -23,10 +23,10 @@ manipulação do estado no React.
 
 ## Como executar
 
-. Clone o repositório
-. Instale as dependências com yarn
-. Inicia a aplicação com yarn dev
-. Inicie o servidor com yarn server
+. Clone o repositório </br>
+. Instale as dependências com yarn </br>
+. Inicia a aplicação com yarn dev </br>
+. Inicie o servidor com yarn server </br>
 . Agora você pode acessar localhost:3000 do seu navegador.
 
 ## Licença
