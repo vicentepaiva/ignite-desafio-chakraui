@@ -1,4 +1,4 @@
-# /Users/vicente/Documents/development/ignite-aulas/reactJs/desafiochakraui/public/images/Logo.png
+# WORLDTRIP
 
 
 ## Tecnologias
